@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hasan
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning C++ and DSA
+- 😎 I'm familiar with C,C++,Python
 - 💞️ I’m looking to help with Data structure and Algorithms
 - 📫 How to reach me:
 -  phone:+8801909558178
